@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Blog
-tags: jekyll blog
+title: Second Blog
+tags: blog github
 ---
 First post here. Big con!
